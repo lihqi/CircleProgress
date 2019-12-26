@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CircleProgress/static/css/main.017028f4.chunk.css",
+    "main.js": "/CircleProgress/static/js/main.3faf2244.chunk.js",
+    "main.js.map": "/CircleProgress/static/js/main.3faf2244.chunk.js.map",
+    "runtime-main.js": "/CircleProgress/static/js/runtime-main.c922fef3.js",
+    "runtime-main.js.map": "/CircleProgress/static/js/runtime-main.c922fef3.js.map",
+    "static/js/2.427b3750.chunk.js": "/CircleProgress/static/js/2.427b3750.chunk.js",
+    "static/js/2.427b3750.chunk.js.map": "/CircleProgress/static/js/2.427b3750.chunk.js.map",
+    "index.html": "/CircleProgress/index.html",
+    "precache-manifest.91ed6b21bf02b85857aae1da0dc4c5bf.js": "/CircleProgress/precache-manifest.91ed6b21bf02b85857aae1da0dc4c5bf.js",
+    "service-worker.js": "/CircleProgress/service-worker.js",
+    "static/css/main.017028f4.chunk.css.map": "/CircleProgress/static/css/main.017028f4.chunk.css.map",
+    "static/js/2.427b3750.chunk.js.LICENSE": "/CircleProgress/static/js/2.427b3750.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c922fef3.js",
+    "static/js/2.427b3750.chunk.js",
+    "static/css/main.017028f4.chunk.css",
+    "static/js/main.3faf2244.chunk.js"
+  ]
+}
